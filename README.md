@@ -114,7 +114,7 @@ Build at the Dapp level if you want to create new ways to interact with existing
 The hackers kit is equipped with several examples and sample projects, which we are working to maintain and expand. The goal for these examples is to help developers easily kickstart a new project, as well as to demonstrate some of the features included in each layer of the DAO stack.
 
 ## [Starter Template](https://github.com/daostack/DAOstack-Hackers-Kit/tree/master/starter-template)
-This is a basic template you can use for kickstarting your project using the DAOstack platform. Here you can find the basic structue for using both Arc and Arc.js to build your project.
+This is a basic template you can use for kickstarting your project using the DAOstack platform. Here you can find the basic structure for using both Arc and Arc.js to build your project.
 
 ## [Peep DAO](https://github.com/daostack/DAOstack-Hackers-Kit/tree/master/peepeth-dao-example)
 This project is a Dapp for interacting with a DAO which has its own DAO social media account on [Peepeth](Peepeth.com), a decentralized microblogging app. The Dapp allows a DAO post Peeps via a decentralized voting mechanism.
